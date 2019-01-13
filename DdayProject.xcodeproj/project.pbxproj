@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0F006AA421EB66CE0042E762 /* SecondSubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F006AA321EB66CE0042E762 /* SecondSubViewController.swift */; };
+		0F006AA621EB75E10042E762 /* ThirdSubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F006AA521EB75E10042E762 /* ThirdSubViewController.swift */; };
 		0F40C7A121EB660C00C14643 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F40C7A021EB660C00C14643 /* AppDelegate.swift */; };
 		0F40C7A321EB660C00C14643 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F40C7A221EB660C00C14643 /* ViewController.swift */; };
 		0F40C7A621EB660C00C14643 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F40C7A421EB660C00C14643 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		0F006AA321EB66CE0042E762 /* SecondSubViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondSubViewController.swift; sourceTree = "<group>"; };
+		0F006AA521EB75E10042E762 /* ThirdSubViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdSubViewController.swift; sourceTree = "<group>"; };
 		0F40C79D21EB660C00C14643 /* DdayProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DdayProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F40C7A021EB660C00C14643 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0F40C7A221EB660C00C14643 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				0F40C7AC21EB660E00C14643 /* Info.plist */,
 				0F40C7CE21EB666000C14643 /* FirstSubViewController.swift */,
 				0F006AA321EB66CE0042E762 /* SecondSubViewController.swift */,
+				0F006AA521EB75E10042E762 /* ThirdSubViewController.swift */,
 			);
 			path = DdayProject;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				0F006AA421EB66CE0042E762 /* SecondSubViewController.swift in Sources */,
 				0F40C7A121EB660C00C14643 /* AppDelegate.swift in Sources */,
 				0F40C7CF21EB666000C14643 /* FirstSubViewController.swift in Sources */,
+				0F006AA621EB75E10042E762 /* ThirdSubViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
